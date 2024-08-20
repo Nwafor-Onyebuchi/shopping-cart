@@ -1,0 +1,6 @@
+Setting Up Development Environment ( VS Code, Node etc )
+Variables & Declaration Syntaxes
+Datatypes and Types
+Object Types in Javascript
+Javascript ES6
+Javascript Functions ( Function, Arrow, etc )
