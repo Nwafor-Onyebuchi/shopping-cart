@@ -101,7 +101,7 @@ const names = ['Tochukwu', 'Dora', 'Ninte', 'Precious']
   const users = [
     {name: 'Tochukwu', age: 30},
     {name: 'Dora', age: 25},
-    {name: 'Ninte', age: 23}
+    // {name: 'Ninte', age: 23}
   ]
 
 
